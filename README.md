@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Curriculum Vitae
+# Gabriel Henrique da Silva
   
 | About | [Projetos](https://exemplo.com) | [Certificados](https://exemplo.com) | [Skills](https://exemplo.com) 
 |---|---|---|---|
