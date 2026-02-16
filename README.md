@@ -5,6 +5,8 @@
 
 # Gabriel Henrique da Silva  
 
+![Local image](./images/example.png)
+
 </div>
 
 
