@@ -1,7 +1,5 @@
 <div align="center">
 
-<p>Curriculum Vitae</p>
-
 | About | [Projetos](https://exemplo.com) | [Certificados](https://exemplo.com) | [Skills](https://exemplo.com) 
 |---|---|---|---|
 
