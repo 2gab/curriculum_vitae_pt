@@ -5,9 +5,11 @@
 
 <p>Curriculum Vitae</p>
 
+# Gabriel Henrique da Silva  
+
 </div>
 
-# Gabriel Henrique da Silva
+
 
 **Cientista da Computação**
 
