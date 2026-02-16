@@ -11,7 +11,7 @@
 
 **Cientista da Computação**
 
-New York, NY | johnsmith@example.com | +1 (123) 456-7890 | (https://linkedin.com/in/johnsmith)\[LinkedIn]
+Brasil, BR | 2gabrielhdasilva@gmail.com | +55 (41) 984546193 | (https://linkedin.com/in/johnsmith)\[LinkedIn]
 
 ***
 
